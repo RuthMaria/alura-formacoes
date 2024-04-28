@@ -2,12 +2,11 @@
     <img alt="Logo ignitte" src="./logo-alura.png" width="350px" />
 </h1>
 
-
 <p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;
-  <a href="#training">Training</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
+  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#technologies">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;
+  <a href="#frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">Licença</a>
 </p>
 
 <p align="center">
@@ -21,35 +20,39 @@
 
 <a id="about"></a><br>
 
-## :books: About
+## :books: Sobre
 
-Alura is an online, practical and intensive training. At alura, students delve deeper into various training courses: programming, frontend, backend, data science, artificial intelligence, devOps, UI & design, mobile and innovation & management. So that the student can be ready for real-world challenges and stand out in the job market.
+Alura é um treinamento online, prático e intensivo. Na alura, os alunos se aprofundam em diversos cursos de formação: programação, frontend, backend, data science, inteligência artificial, devOps, UI & design, mobile e inovação & gestão; para que esteja preparado para os desafios do mundo real e se destaque no mercado de trabalho.
+
 
 <a id="technologies"></a><br>
 
-## ⚒️ Technologies Used
+## ⚒️ Tecnologias usadas
 
  * CSS3
  * HTML5
 
-<a id="training"></a><br>
+<a id="frontend"></a><br>
 
 ## :abacus: Frontend
 
-- [Html e CSS](https://github.com/RuthMaria/alura-frontend-html-e-css)
-- [Angular](https://github.com/RuthMaria/ignite-time)
-- [Javascript](https://github.com/RuthMaria/ignite-DTMoney)
+- HTML e CSS
+  - [Html e Css: Praticando HTML/CSS](https://github.com/RuthMaria/alura-plus)
+- Angular
+  - []()
+- Javascript
+  - []()
 
 <br>
 
 <a id="license"></a><br>
 
-## :memo: License
+## :memo: Licença
 
-This project is under the MIT license. See the  file [LICENSE](LICENSE.md) for more details.
+Este projeto está sob licença do MIT. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
 
 ---
 
 <h4 align="center">
-    Developed with ❤️ by <a href="https://www.linkedin.com/in/ruth-maria-9b256071/" target="_blank">Ruth Maria</a>
+    Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/ruth-maria-9b256071/" target="_blank">Ruth Maria</a>
 </h4>
