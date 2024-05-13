@@ -31,6 +31,8 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
 
  * CSS3
  * HTML5
+ * Jasmine
+ * Karma
 
 <a id="frontend"></a><br>
 
@@ -40,6 +42,7 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
   - [Html e Css: Praticando HTML/CSS](https://github.com/RuthMaria/alura-plus)
 - Angular
   - [Testes automatizados com Jasmine e Karma](https://github.com/RuthMaria/ng-test1)
+  - [Avançando com testes automatizados](https://github.com/RuthMaria/ng-test2)
 - Javascript
   - []()
 
