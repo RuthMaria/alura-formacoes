@@ -36,20 +36,35 @@ Na prática do desenvolvimento de software, é crucial entender e aplicar difere
 
 1 - Teste Unitário:
 
- Definição: Teste focado em verificar o comportamento de unidades individuais de código, como funções, métodos ou classes, de forma isolada.
- Objetivo: Validar se cada unidade de código funciona conforme o esperado e produz os resultados corretos.
+ Definição: Teste focado em verificar o comportamento de unidades individuais de código, como funções, métodos ou classes, de forma isolada.<br>
+ Objetivo: Validar se cada unidade de código funciona conforme o esperado e produz os resultados corretos.<br>
  Ferramentas no Angular: Para testes unitários em Angular, as ferramentas mais comuns são o Jasmine e o Jest. O Jasmine é um framework de teste de comportamento para          JavaScript amplamente utilizado. Já o Jest é uma estrutura de teste mais recente que oferece recursos adicionais, como snapshot testing e uma API de mocking mais avançada.
 
 2 - Teste Integrado:
 
-Definição: Teste que verifica a interação entre diferentes unidades de código, como componentes, serviços e módulos, para garantir que eles funcionem corretamente juntos.
-Objetivo: Identificar e corrigir problemas de integração entre diferentes partes do sistema.
+Definição: Teste que verifica a interação entre diferentes unidades de código, como componentes, serviços e módulos, para garantir que eles funcionem corretamente juntos.<br>
+Objetivo: Identificar e corrigir problemas de integração entre diferentes partes do sistema.<br>
 Ferramentas no Angular: Para testes integrados em Angular, as ferramentas Jasmine, Karma e Jest são comumente usadas. O Jest pode ser configurado para executar testes tanto unitários quanto integrados, tornando-o uma escolha versátil para ambos os tipos de teste.
 
 3 - Teste End-to-End (E2E):
 
-Definição: Teste que simula a interação do usuário com o sistema como um todo, desde a entrada de dados até a visualização dos resultados, através da automação de um navegador.
-Objetivo: Verificar se o sistema funciona corretamente do ponto de vista do usuário, identificando problemas de usabilidade, integração e funcionalidade.
+Definição: Teste que simula a interação do usuário com o sistema como um todo, desde a entrada de dados até a visualização dos resultados, através da automação de um navegador.<br>
+Objetivo: Verificar se o sistema funciona corretamente do ponto de vista do usuário, identificando problemas de usabilidade, integração e funcionalidade.<br>
 Ferramentas no Angular: Para testes E2E em Angular, as ferramentas mais comuns são o Protractor, Cypress e Playwright. O Protractor é uma escolha tradicional para testes E2E em aplicações Angular, enquanto o Cypress e o Playwright são opções mais modernas e poderosas, oferecendo uma sintaxe amigável e uma ampla gama de recursos para automação de testes em navegadores.
 
 Esses três tipos de testes desempenham papéis distintos na garantia da qualidade do software e são cruciais para o desenvolvimento de aplicações robustas e confiáveis em Angular. Ao aplicar uma combinação adequada desses testes em seu projeto, você pode identificar e corrigir problemas em diferentes níveis de granularidade, desde pequenas unidades de código até a integração completa do sistema.
+
+Além desses três, ainda tem os:
+
+- Testes de usabilidade: são cruciais para garantir que o sistema é fácil de usar.
+- Testes de estresse: são importantes para avaliar como o sistema se comporta sob carga pesada.
+
+#### Karma 
+
+O Karma é uma ferramenta de execução de testes desenvolvida pelo Google, que é comumente utilizada para executar testes unitários em aplicações Angular.
+Antes de iniciar os testes, o Karma precisa ser configurado para o ambiente de teste. No Angular, isso é geralmente feito através do arquivo karma.conf.js, que contém as configurações necessárias para o Karma, como quais arquivos de código-fonte e testes incluir, qual framework de teste usar (por exemplo, Jasmine) e quais navegadores serão usados para executar os testes.<br>
+
+Para criar o arquivo de configuração do karma:
+```
+ng g config karma
+```
