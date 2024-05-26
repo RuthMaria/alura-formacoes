@@ -68,3 +68,9 @@ Para criar o arquivo de configuração do karma:
 ```
 ng g config karma
 ```
+
+#### instalando o jest
+```
+npm install jest @types/jest @angular-builders/jest --save-dev
+ng add @briebug/jest-schematic
+```
