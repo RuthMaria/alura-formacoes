@@ -45,6 +45,8 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
   - [Avançando com testes automatizados](https://github.com/RuthMaria/ng-test2)
   - [Explorando testes de unidade e integração](https://github.com/RuthMaria/3664-zoop-store)
   - [Acessibilidade no Angular: aprimorando formulários, modais e rotas](https://github.com/RuthMaria/3491-angular-a11y-projeto-base)
+  - [Componetização e design com Angular Material
+](https://github.com/RuthMaria/3150-jornada-milhas)
 - Javascript
   - []()
 
