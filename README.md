@@ -48,6 +48,7 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
   - [Componetização e design com Angular Material](https://github.com/RuthMaria/3150-jornada-milhas)
   - [Componentização, formulários e interação com APIs](https://github.com/RuthMaria/jornada-milhas)
   - [Trabalhando com Tokens JWT na autenticação e cadastro](https://github.com/RuthMaria/3213-jornada-milhas)
+  - [Buscando, filtrando e exibindo dados de uma API](https://github.com/RuthMaria/3213-jornada-milhas)
 - Javascript
   - []()
 
