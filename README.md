@@ -6,6 +6,7 @@
   <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#technologies">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;
   <a href="#frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">Licença</a>
 </p>
 
@@ -33,10 +34,19 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
  * HTML5
  * Jasmine
  * Karma
+ * C#
 
+<a id="backend"></a><br>
+
+## :abacus: Backend
+
+- C#
+  - [Aprenda a programar em C# com Orientação a Objetos](https://github.com/RuthMaria/PrimeiroProjeto)
+ 
+  
 <a id="frontend"></a><br>
 
-## :abacus: Frontend
+## :art: Frontend
 
 - HTML e CSS
   - [Html e Css: Praticando HTML/CSS](https://github.com/RuthMaria/alura-plus)
