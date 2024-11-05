@@ -42,7 +42,8 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
 
 - Aprenda a programar em C# com Orientação a Objetos
   - [C#: Criando sua própria aplicação](https://github.com/RuthMaria/PrimeiroProjeto)
-  - [C#: Aplicando a Orientação a Objetos](https://github.com/RuthMaria/ScreenSound) 
+  - [C#: Aplicando a Orientação a Objetos](https://github.com/RuthMaria/ScreenSound)
+  - [C#: dominando Orientação a Objetos](https://github.com/RuthMaria/ScreenSound03)
   
 <a id="frontend"></a><br>
 
