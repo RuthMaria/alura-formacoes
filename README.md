@@ -47,7 +47,9 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
   - [C#: Consumindo API, gravando arquivos e utilizando LINQ](https://github.com/RuthMaria/ScreenSound-04)
  
 - C# e Orientação a Objetos: coleções, arquivos e bibliotecas
-  - [C#: Trabalhando com Arrays e Coleções](https://github.com/RuthMaria/ScreenSound-04) 
+  - [C#: Trabalhando com Arrays e Coleções](https://github.com/RuthMaria/Array_Collections)
+  - [C#: Trabalhando com arquivos](https://github.com/RuthMaria/Array_Collections) 
+
   
 <a id="frontend"></a><br>
 
