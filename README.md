@@ -49,7 +49,11 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
 - C# e Orientação a Objetos: coleções, arquivos e bibliotecas
   - [C#: Trabalhando com Arrays e Coleções](https://github.com/RuthMaria/Array_Collections)
   - [C#: Trabalhando com arquivos](https://github.com/RuthMaria/Csharp-Arquivos) 
-  - [C#: Criando e distribuindo bibliotecas em .NET](https://github.com/RuthMaria/bibliotecas) 
+  - [C#: Criando e distribuindo bibliotecas em .NET](https://github.com/RuthMaria/bibliotecas)
+ 
+- C# Web: Crie aplicações usando ASP.NET
+  - [.NET: Persistindo dados com Entity Framework Core](https://github.com/RuthMaria/3506-csharpWeb-screensound)
+    
 
   
 <a id="frontend"></a><br>
