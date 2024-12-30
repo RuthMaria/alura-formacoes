@@ -50,6 +50,7 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
   - [C#: Trabalhando com Arrays e Coleções](https://github.com/RuthMaria/Array_Collections)
   - [C#: Trabalhando com arquivos](https://github.com/RuthMaria/Csharp-Arquivos) 
   - [C#: Criando e distribuindo bibliotecas em .NET](https://github.com/RuthMaria/bibliotecas)
+  - [C#: Hora de praticar - 7 days of code](https://github.com/RuthMaria/Tamagotchi)
  
 - C# Web: Crie aplicações usando ASP.NET
   - [.NET: Persistindo dados com Entity Framework Core](https://github.com/RuthMaria/3506-csharpWeb-screensound)
