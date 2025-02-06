@@ -55,7 +55,9 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
 - C# Web: Crie aplicações usando ASP.NET
   - [.NET: Persistindo dados com Entity Framework Core](https://github.com/RuthMaria/3506-csharpWeb-screensound)
   - [.NET: Criando uma API  Web com ASP.NET core](https://github.com/RuthMaria/ScreenSound.API)
-  - [.NET: desenvolvendo uma aplicação web com ASP.NET Core Blazor](https://github.com/RuthMaria/ScreenSound-BlazorWeb)
+  - [.NET: Desenvolvendo uma Aplicação Web com ASP.NET Core Blazor](https://github.com/RuthMaria/ScreenSound-BlazorWeb)
+  - [ASP.NET: Autenticação e Autorização em APIs e Aplicações Web
+](https://github.com/RuthMaria/ScreenSound-autenticacao)
 
     
 
