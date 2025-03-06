@@ -58,7 +58,8 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
   - [.NET: Desenvolvendo uma Aplicação Web com ASP.NET Core Blazor](https://github.com/RuthMaria/ScreenSound-BlazorWeb)
  
 - ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ
-  - [HTTP: Entendendo a Web por baixo dos panos](https://github.com/RuthMaria/api-alurabooks)
+  - HTTP: Entendendo a Web por baixo dos panos
+  - [.NET 6: criando uma web API](https://github.com/RuthMaria/api-alurabooks)
 
     
 
