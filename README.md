@@ -35,6 +35,7 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
  * Jasmine
  * Karma
  * C#
+ * Entity Framework
 
 <a id="backend"></a><br>
 
@@ -59,7 +60,9 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
  
 - ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ
   - HTTP: Entendendo a Web por baixo dos panos
-  - [.NET 6: criando uma web API](https://github.com/RuthMaria/FilmesAPI)
+  - [.NET 6: Criando uma Web API](https://github.com/RuthMaria/FilmesAPI)
+  - [.NET 6: Relacionando Entidades](https://github.com/RuthMaria/FilmesAPI-2)
+
 
     
 
