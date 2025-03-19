@@ -62,9 +62,7 @@ Alura é um treinamento online, prático e intensivo. Na alura, os alunos se apr
   - HTTP: Entendendo a Web por baixo dos panos
   - [.NET 6: Criando uma Web API](https://github.com/RuthMaria/FilmesAPI)
   - [.NET 6: Relacionando Entidades](https://github.com/RuthMaria/FilmesAPI-2)
-
-
-    
+  - [.NET 6 e Identity: implementando controle de usuário](https://github.com/RuthMaria/UsuarioAPI)   
 
   
 <a id="frontend"></a><br>
